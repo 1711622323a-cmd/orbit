@@ -1,5 +1,1 @@
-{
-  "url": "https://incentive-mesa-season-responded.trycloudflare.com",
-  "note": "Orbit 手机后端当前公网地址；隧道重启后改这里",
-  "updated": "2026-11-12"
-}
+{"url":"https://orbit-1711.serveousercontent.com","note":"Orbit 手机后端固定公网地址（Serveo 固定子域名，重启不变）","updated":"2026-11-12"}
